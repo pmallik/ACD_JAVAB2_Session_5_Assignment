@@ -2,7 +2,7 @@ package Package1;
 
 import java.util.Scanner;
 
-//declaring Triangle class  which will extend the abstract class Figure
+//declaring Circle class  which will extend the abstract class Figure
 public class Circle extends Figure {
 	
    double dim1;
