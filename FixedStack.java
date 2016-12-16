@@ -1,5 +1,5 @@
 package myPack;
-
+//incomplete
 public class FixedStack implements Stack {
 	int size;
 	FixedStack(int i)
